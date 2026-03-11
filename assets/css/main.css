@@ -598,6 +598,12 @@ h6 {
   font-family: var(--heading-font);
 }
 
+.footer .footer-about img {
+  height: 28px;
+  width: auto;
+  display: block;
+}
+
 .footer .footer-contact p {
   margin-bottom: 5px;
 }
